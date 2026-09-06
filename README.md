@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @renenox
-- 🖤 I DO GRAPHIC DESIGN,POSTER DESIGN, VISUAL ARTS...
-- 📫 How to reach me @noxworld00.com
-- 💯 BEHANCE: Nox wrld
-- 💯 IG: noxwrld_
+- 🖤 I DO WEB DEVELOPMENT, GRAPHIC DESIGN, POSTER DESIGN, VISUAL ARTS...
+- 📫 How to reach me realrenenox@gmail.com
+- 💯 IG: n0xwrld
 - ⚡ Fun fact: I Dance too
 
 <!Peace!
